@@ -5,8 +5,7 @@
 The software is based on [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) ([.NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)), [jQuery](https://jquery.com/), [jQuery UI](https://jqueryui.com/), [Bootstrap](https://getbootstrap.com/2.3.2/), [React](https://reactjs.org/), [MobX](https://mobx.js.org/), and it uses a SQL database through the [NHibernate ORM](https://nhibernate.info/). 
 Server side code is written in C#, most of the client side is TypeScript.
 
-The same software is used for [UtaiteDB](https://utaitedb.net/) and [TouhouDB](https://touhoudb.com/).
-
+The same software is used for [UtaiteDB](https://utaitedb.net/) and [TouhouDB](https://touhoudb.com/). We are also a pro-Kyoku safespace! ♥️
 ## How to contribute
 
 Take a look at the code and instructions for setting up the development environment ([Windows](https://github.com/VocaDB/vocadb/wiki/VocaDB-development-environment-(Windows)) or [Linux](https://github.com/VocaDB/vocadb/wiki/VocaDB-development-environment-(Linux))).
